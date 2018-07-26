@@ -1,0 +1,139 @@
+https://www.digikey.com/en/maker/blogs/2017/how-to-setup-wifi-on-the-beaglebone-black-wireless
+
+Be sure to check out the 2n's
+
+http://noobtechiespeaks.blogspot.in/2014/10/ya-i-know-previous-versions-of.html
+
+Booting up from Memory Card
+
+http://derekmolloy.ie/beaglebone/
+
+https://beta.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2013/10/10/bbb--beaglebone-black-io-library-for-c
+
+Using embedded linux
+
+http://www.toptechboy.com/beaglebone-black/
+
+Using Python
+
+https://github.com/adafruit/adafruit-beaglebone-io-python/issues/240
+
+Autostarting a script
+
+https://github.com/adafruit/adafruit-beaglebone-io-python
+
+https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/
+
+https://graycat.io/tutorials/beaglebone-io-using-python-mmap/
+
+Differently in Python -- Somewhat tough
+
+https://github.com/graycatlabs/PyBBIO/wiki/Using-PyBBIO
+
+Python coustom lib -- good
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+https://www.pygame.org/docs/ref/joystick.html
+
+Using Pygame
+
+https://stackoverflow.com/questions/19203819/reading-joystick-values-with-python
+
+If the problem is that the value is always 0, then try to do pygame.event.pump() before reading the values. I've had a similar problem and this helped.
+
+https://gist.github.com/rdb/8864666
+
+Without using Pygame
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://raspberrypi.stackexchange.com/questions/7095/control-robot-over-wifi
+
+Forum - Several links
+
+*******************************************************************************************************************************************************************************************
+
+https://www.lifewire.com/socket-programming-for-computer-networking-4056385
+
+Basics of sockets (in networking)
+
+https://www.lifewire.com/transmission-control-protocol-and-internet-protocol-816255
+
+Basics of TCP/IP
+
+https://www.lifewire.com/definition-of-protocol-network-817949
+
+Basics of Network Protocols
+
+https://www.lifewire.com/computer-networks-protocols-817374
+
+""
+
+https://www.lifewire.com/user-datagram-protocol-817976
+
+Intro to UDP
+
+https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm
+
+Sockets - Network Byte order
+
+https://www.lifewire.com/open-systems-interconnection-model-816290
+
+OSI model - not needed
+
+https://www.lifewire.com/osi-model-reference-guide-816289
+
+""
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://pymotw.com/2/socket/udp.html
+
+Basic UDP Echo server-client program
+
+http://www.eng.northampton.ac.uk/~espen/CSY2026/CSY2026-Week8.htm
+
+Has both TCP and UDP example scripts -- Good
+
+https://tutorialedge.net/python/udp-client-server-python/
+
+UDP -- Decent
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://code-maven.com/parallel-processing-using-fork-in-python
+
+Simple fork
+
+https://www.python-course.eu/forking.php
+
+-- Have to checkout (related to fork only)
+
+http://www.pererikstrandberg.se/blog/index.cgi?page=PythonMultiprocessingForkWaitpidAndQueue
+
+Multiprocessing, Fork, Queue -- A lot of things are there, but no explanation (check out each function afterwards)
+
+http://www.myelin.co.nz/post/2003/3/13/
+
+Fork -- Simple
+
+https://dzone.com/articles/python-201-a-multiprocessing-tutorial
+
+Multiprocessing
+
+http://sebastianraschka.com/Articles/2014_multiprocessing.html
+
+"" -- Have to checkout
+
+https://pymotw.com/2/multiprocessing/basics.html
+
+"" -- Have to checkout
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.logicsupply.com/explore/io-hub/tutorial-using-beaglebone-black-watchdog-timer/
+
+Watchdog timer -- Have to look into it
+
+ embedded PRU Programmable Realtime Unit modules -- check it out
